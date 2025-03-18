@@ -174,3 +174,4 @@ export default function AlertModal({ onClose, disasterId }: AlertModalProps) {
     </div>
   );
 }
+
