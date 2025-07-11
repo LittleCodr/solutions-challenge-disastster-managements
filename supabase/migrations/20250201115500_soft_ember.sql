@@ -1,6 +1,6 @@
 /*
   # Initial Schema for Disaster Response Hub
-
+ 
   1. New Tables
     - `disasters`
       - Real-time disaster tracking
